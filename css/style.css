@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Alcotton';
+	src: url("../fonts/Alcotton.woff"),
+	url("../fonts/Alcotton.woff2");
+	font-weight: normal;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Etna';
+	src: url('../fonts/Etna.woff'),
+	url('../fonts/Etna.eot'),
+	url('../fonts/Etna.ttf');
+	font-weight: normal;
+	display: wrap;
+	font-style: normal;
+}
+
+body{
+	font-family: 'Alcotton', sans-serif; 
+}
